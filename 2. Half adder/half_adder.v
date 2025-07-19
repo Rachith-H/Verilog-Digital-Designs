@@ -1,4 +1,4 @@
-module half_adder (A,B,S,C);
+module half_adder_df (A,B,S,C);
 input A,B;
 output S,C;
 
