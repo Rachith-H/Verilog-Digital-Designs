@@ -6,3 +6,4 @@ The repository reflects a progressive exploration of digital logic concepts, RTL
  **Designs included :** 
 
 1. Logic gates
+2. Half adder
