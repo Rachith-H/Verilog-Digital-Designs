@@ -8,3 +8,4 @@ The repository reflects a progressive exploration of digital logic concepts, RTL
 1. Logic gates
 2. Half adder
 3. Full adder
+4. Full adder with Half adder
