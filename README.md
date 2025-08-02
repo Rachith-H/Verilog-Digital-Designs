@@ -9,3 +9,4 @@ The repository reflects a progressive exploration of digital logic concepts, RTL
 2. Half adder
 3. Full adder
 4. Full adder with Half adder
+5. Ripple Carry Adder
