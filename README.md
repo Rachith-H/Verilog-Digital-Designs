@@ -12,3 +12,4 @@ The repository reflects a progressive exploration of digital logic concepts, RTL
 5. Ripple Carry Adder
 6. Carry Lookahead Adder
 7. Multiplexers
+8. Binary to Gray Code Converter
