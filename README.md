@@ -14,3 +14,4 @@ The repository reflects a progressive exploration of digital logic concepts, RTL
 7. Multiplexers
 8. Binary to Gray Code Converter
 9. Gray to Binary Code Converter
+10. Watchdog Timer
