@@ -7,11 +7,8 @@ The repository reflects a progressive exploration of digital logic concepts, RTL
 
 1. Logic gates
 2. Half adder
-3. Full adder
-4. Full adder with Half adder
-5. Ripple Carry Adder
-6. Carry Lookahead Adder
-7. Multiplexers
-8. Binary to Gray Code Converter
-9. Gray to Binary Code Converter
-10. Watchdog Timer
+3. Adder Circuits
+4. Multiplexers
+5. Binary to Gray Code Converter
+6. Gray to Binary Code Converter
+7. Watchdog Timer
