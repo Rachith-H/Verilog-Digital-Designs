@@ -7,7 +7,7 @@ input [addr_width-1:0]Addr;
 wire write,read;
 reg [width-1:0]mem[0:size-1];
 reg [width-1:0]data_buff;
-assign Data = ren ? data_buff : {width{1'bz}};
+assign Data = read ? data_buff : {width{1'bz}};
 assign write = wen& ~ren ;
 assign read = ren & ~wen;
 
