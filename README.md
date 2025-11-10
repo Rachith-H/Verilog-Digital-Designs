@@ -1,6 +1,6 @@
 # Verilog-Digital-Designs  
 
-This repository contains a collection of digital designs written in Verilog HDL and developed using Xilinx Vivado. The designs are accompanied by simulation testbenches for verification.
+This repository contains a collection of digital designs written in Verilog HDL. The designs are accompanied by simulation testbenches for verification.
 The repository reflects a progressive exploration of digital logic concepts, RTL design practices, and simulation workflows.
 
  **Designs included :** 
