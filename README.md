@@ -15,3 +15,4 @@ The repository reflects a progressive exploration of digital logic concepts, RTL
 8. Memory
 9. Signal Generator
 10. Watchdog Timer
+11. Barrel shifter
