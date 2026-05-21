@@ -10,6 +10,8 @@ localparam IDLE=0 , INIT=1 , EVAL1=2 , EVAL2=3 , EVAL3=4 , UPDATE=5, CORRECT=6, 
 reg [2:0] state ;
 reg [$clog2(N):0] count;
 
+// NOTE: Division by zero is not handled.
+
 always@(posedge clk or posedge rst) begin 
     if(rst) begin 
         count <= N;
