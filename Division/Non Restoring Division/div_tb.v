@@ -6,6 +6,9 @@ reg clk,rst,start;
 wire [4:0] quo,rem;
 wire done;
 
+
+// NOTE: Division by zero is not handled.
+
 non_res_div #(.N(5)) dut (clk,rst,start,A,B,quo,rem,done);
 
 always #5 clk = ~clk;
